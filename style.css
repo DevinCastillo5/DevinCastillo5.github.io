@@ -14,11 +14,11 @@ body {
 }
 
 #nav {
-    text-align: center;
+    text-align: left;
 }
 
 #buttontable {
-    margin: auto;
+    margin-right: auto;
     width: 800px;
     margin-top: 20px;
 }
@@ -42,7 +42,7 @@ hr {
 }
 
 #heading {
-    text-align: center;
+    text-align: left;
     font-size: 40px;
     font-family: Super;
     letter-spacing: 4px;
@@ -63,25 +63,22 @@ hr {
 }
 
 #homecontent {
-    margin-left: 550px;
     width: 800px;
     clear: both;
 }
 
 #jscontent {
-    margin-left: 550px;
     width: 800px;
     clear: both;
 }
 
 #aboutcontent {
-    margin-left: 550px;
     width: 800px;
     clear: both;
 }
 
 #abouttext {
-    text-align: center;
+    text-align: left;
 }
 
 #AD {
